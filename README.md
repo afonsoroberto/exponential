@@ -43,7 +43,7 @@ The US is where I go to compress a decade of learning into two years. Then I bri
 | Project | Role & stack | Impact / Demo |
 |---|---|---|
 | **Fusion** | Lead contributor · Python · React · LLM workflows · Make | Generative AI platform deployed across banking, energy & hospitality in multiple continents. Built it before anyone asked for it. |
-| **Mahou San Miguel Data Platform** | Solo lead · Microsoft Fabric · PySpark · Azure AI Foundry · Power BI | [Mahou San Miguel Demo](https://youtu.be/oVftu7joqU8) — End-to-end cloud architecture + LLM agents. Non-technical people querying enterprise data in plain language. |
+| **Mahou San Miguel Data Platform** | Solo lead · Microsoft Fabric · PySpark · Azure AI Foundry · Power BI | [Mahou San Miguel Demo](https://youtu.be/oVftu7joqU8) - End-to-end cloud architecture + LLM agents. Non-technical people querying enterprise data in plain language. |
 | **LatAm Hardware Co. OS** | Solo lead · React · Node.js · Python · mobile | [Solari Demo](https://solari-demo-97d7.vercel.app/) - Full back-office from zero: internal tools, supplier systems, client platform, and a mobile app for Asia business trips. They didn't know they needed it. Now they can't operate without it. |
 | **Trami** | Solo founder · full-stack · product · design | [trami.tech](https://trami.tech) - "Discover your financial DNA." 100+ users, zero paid acquisition. People DMing saying it changed how they think about money. Built it in my spare time because the gap was too obvious to ignore. |
  
