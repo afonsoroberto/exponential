@@ -6,7 +6,7 @@
  
 > 💡 **TL;DR** - Builder-operator who speaks both strategy and code. Not one or the other - both, at the same time, shipped to production.
 >
-> MSc Big Data Science & AI. Helped build Fusion, a generative AI platform deployed across banking, energy, and hotel chains in Asia. Founder of Trami and building intelligent infrastructure for real operations for companies in Latam. Now designing AI systems and automation workflows for enterprise clients at a London-based cloud consultancy, from Madrid, because a desk is just a suggestion.
+> MSc Big Data & AI. Builder at heart. From scaling international GenAI platforms to solo-founding products with 0 acquisition cost, I live for the build. Currently architecting AI-enabled systems for London’s enterprise market. I’m here for the high-stakes problems, the messy data, and the products that actually shift the needle.
 >
 > Not chasing a title. Chasing the environment where the best problems live.
 >
@@ -16,50 +16,51 @@
  
 ## About Roberto
  
-Venezuelan-Spanish. Madrid. I live at the intersection of data, AI, and product, which sounds like a buzzword until you realise most people can only do one of the three.
+Venezuelan-Spanish. Based in Madrid. I live at the intersection of data, AI, and product, which sounds like a buzzword until you realise most people can only do one of the three.
  
-Spent three years at Globant turning business chaos into digital performance, got pulled into building Fusion (a generative AI content platform deployed across banking, energy, and hospitality internationally. I didn't get to ship it, but that's the origin story, not the ending), and now I design AI-enabled cloud solutions and automation workflows for enterprise clients at Spaulding Ridge.
+Spent three years at Globant turning business chaos into digital performance, got pulled into building Fusion - a generative AI platform that went live across banking, energy, and hospitality internationally. I wasn't on the launch. But I was there when it was nothing, and that's the part that matters. Now I design AI-enabled cloud solutions and automation workflows for enterprise clients at Spaulding Ridge.
  
-My Master's thesis was a full end-to-end cloud data platform built on Microsoft Fabric + Azure AI Foundry for Mahou San Miguel, LLM agents letting non-technical people interrogate their own commercial data in plain language. That's the kind of thing I do for fun.
+I also got to work with Mahou San Miguel building a full cloud data platform - Microsoft Fabric + Azure AI Foundry, LLM agents that let non-technical people query their own commercial data in plain language. The goal was simple: make the data accessible to the people who actually need it, not just the ones who can read it.
  
-I've also been quietly building on the side: back-office infrastructure, mobile apps, AI agents, and a fintech psychology tool for people who didn't know they needed to understand themselves before they understood the market. That's my natural habitat, the gap between "this is how we've always done it" and "wait, this actually works."
- 
-The US is where I go to compress a decade of learning into two years. Then I bring it back. 🌍
+On the side, I've been building: back-office infrastructure, mobile apps, AI agents, and a fintech psychology tool for people who didn't know they needed to understand themselves before they understood the market. I can't switch off the 'what if', that question is usually where the most efficient solution is hiding.
+
+The US is the place where that question gets answered fastest. I'm going there to learn at a pace Europe doesn't offer yet, and then bring it back to the markets that need it most. 🌍
  
 ---
  
 ## Main Achievements 🏆
  
-- **Fusion - Generative AI platform (Globant, 2023–2025).** Helped build an enterprise AI tool for content generation and automation, deployed across banking, energy, and hospitality, including hotel chains in Asia. Started as an internal pitch nobody took seriously. Ended up in production across multiple continents.
-- **Cloud & AI Architecture - (Collaboration with Mahou San Miguel, 2025).** End-to-end Bronze/Silver/Gold data platform on Microsoft Fabric with LLM agents in Azure AI Foundry. Non-technical people querying their own commercial data in plain language. Built it from scratch.
-- **Full back-office build for a 30 - year Latin American hardware company - [Solari Demo](https://solari-demo-97d7.vercel.app/).** Entire internal infrastructure from zero, employee systems, supplier and client communication tools, and a mobile app for their business travel (they go to Asia a lot). Still shipping new features. They didn't know they needed it. Now they can't operate without it.
-- **Trami - [trami.tech](https://trami.tech).** Built solo. 100+ users in the first weeks with zero paid acquisition - pure word of mouth. People DMing saying it changed how they see themselves. That's the kind of impact that doesn't show up in a metric but you feel it. 🧠
-- **Salesforce Certified Platform Administrator + Agentforce Specialist (2026).** Both in the same year, while working full time. Shipped the certs the same way I ship everything else.
-- **Spaulding Ridge - Cloud Solutions Designer (2025 - present).** Designing and delivering AI-enabled CRM systems and automation workflows for enterprise clients across Europe. London company. Madrid timezone. Outcomes everywhere.
+- **Fusion: From Rogue Pitch to Global Scale.** Turned a "rejected" internal idea into a **Multi-Continental GenAI Platform**. Orchestrated the deployment across Banking and Hospitality sectors in Asia and EMEA, automating content chains for Tier-1 enterprise giants.
+- **Data Democratization @ Mahou San Miguel.** Architected a full-stack **Bronze/Silver/Gold Fabric pipeline** from scratch. Integrated LLM agents via Azure AI Foundry, enabling non-technical execs to talk to their data in plain English. No SQL, just answers.
+- **Solari: Digital Transformation for the 'Real World' - [Solari Demo](https://solari-demo-97d7.vercel.app/).** Displaced 30 years of spreadsheets and WhatsApp chaos for a LatAm hardware powerhouse. Built a custom **Back-office OS + Mobile Ecosystem** that’s now the backbone of their international ops. They literally can't run without it now.
+- **Trami: High-Signal Product Market Fit - [trami.tech](https://trami.tech).** Built and launched solo. Hit **100+ active users in 7 days** with $0 CAC. Created a financial self-awareness tool that resonated so hard people were DMing me about their "mindset shifts." Pure organic growth. 🧠
+- **Dual-Cert Speedrun (2026)** Cracked **Salesforce Admin + Agentforce Specialist** in record time while working full-time. I ship certifications with the same velocity and quality as my production code.
+- **Enterprise AI Design @ Spaulding Ridge.** Currently spearheading AI-enabled CRM architectures for the London market. Bridging the gap between "cool AI demos" and **actual ROI** for enterprise workflows. Outcomes everywhere.
 ---
  
 ## Most-Prideful Builds 🛠️
  
-| Project | Role & stack | Impact / Demo |
+| Project | Role & stack | Why it matters |
 |---|---|---|
-| **Fusion** | Lead contributor · Python · React · LLM workflows · Make | Generative AI platform deployed across banking, energy & hospitality in multiple continents. Built it before anyone asked for it. |
-| **Mahou San Miguel Data Platform** | Solo lead · Microsoft Fabric · PySpark · Azure AI Foundry · Power BI | [Mahou San Miguel Demo](https://youtu.be/oVftu7joqU8) - End-to-end cloud architecture + LLM agents. Non-technical people querying enterprise data in plain language. |
-| **LatAm Hardware Co. OS** | Solo lead · React · Node.js · Python · mobile | [Solari Demo](https://solari-demo-97d7.vercel.app/) - Full back-office from zero: internal tools, supplier systems, client platform, and a mobile app for Asia business trips. They didn't know they needed it. Now they can't operate without it. |
-| **Trami** | Solo founder · full-stack · product · design | [trami.tech](https://trami.tech) - "Discover your financial DNA." 100+ users, zero paid acquisition. People DMing saying it changed how they think about money. Built it in my spare time because the gap was too obvious to ignore. |
+| **Fusion** | Lead contributor · Python · React · LLM workflows · Make | Proved that a generative AI tool built inside a consultancy - with no budget, no mandate, and no believers - can end up in production across multiple industries and continents. Sometimes the most important thing you build is the one nobody asked for. |
+| **Mahou San Miguel Data Platform** | Solo lead · Microsoft Fabric · PySpark · Azure AI Foundry · Power BI | [Mahou San Miguel Demo](https://youtu.be/oVftu7joqU8) Data is only valuable if the right people can access it. This made a century-old drinks company's commercial intelligence available to anyone in the room - not just the ones who speak SQL. |
+| **LatAm Hardware Co. OS** | Solo lead · React · Node.js · Python · mobile | [Solari Demo](https://solari-demo-97d7.vercel.app/) - Latin America is full of real businesses with 30+ years of experience running on spreadsheets and WhatsApp. This one doesn't anymore. That gap is massive - and massively underestimated. |
+| **Trami** | Solo founder · full-stack · product · design | [trami.tech](https://trami.tech) - The best financial decisions start with self-awareness, not market data. Nobody was building for that layer. So I did. People DMing saying it shifted something in them - that's the metric that matters. |
  
 ---
  
 ## Experience (TL;DR) 💼
  
-- **Cloud Solutions Designer / Spaulding Ridge** - *Aug 2025 - present.* Designing AI-enabled CRM systems and automation workflows for enterprise clients across Europe. London company. Madrid timezone. Outcomes everywhere.
-- **Digital Solutions & AI Builder / Globant** - *Aug 2022 - Aug 2025.* Turned enterprise data chaos into digital performance. Got pulled into building Fusion on the side. Shipped across continents. Didn't get the launch credit. Got the clarity instead.
-- **Hackathons** ⚡ - Participated because it's fun, stayed because it's addictive. The kind of person who signs up and then can't sleep until it's shipped.
+- **Cloud Solutions Designer @ Spaulding Ridge** - *(2025-).* Architecting AI-enabled CRM workflows for Enterprise clients across EMEA. Driving **30% faster deployment cycles** by bridging the gap between legacy ops and LLM automation.
+- **MSc Big Data & AI** - Univeristy of Navarra. (GPA:8.9/10)
+- **Digital Solutions & AI Builder @ Globant** - *(2022 - 2025).* Turned enterprise data chaos into digital performance. Scaled automation for Tier-1 banking and hospitality clients.
+- **Serial Builder (Side Projects)** ⚡ - Launched **5+ full-stack apps** (Trami, Solari, etc.). Hit **100+ organic users via Trami in week 1** with $0 marketing spend.
 - **Volunteering / Canaima, Venezuela** 🌿 - Used music as a tool to connect with indigenous communities in the Amazon. First time I understood what it means to build something for someone who didn't know they needed it, and watch it change everything. That feeling never left.
 ---
  
 ## How I Work ⚙️
  
-- **Gets me pumped:** zero-to-one moments · watching something you built actually get used · people who lean into what makes them different and use it as fuel · the person who walks in with a problem already half-solved - not just the complaint
+- **Gets me pumped:** zero-to-one moments · watching something you built actually get used · people who lean into what makes them different and use it as fuel · people who see a change and immediately make it their own - not just rolling with it, but building something new out of it
 - **Disappoints me:** people who confuse activity with progress · rooms where everyone agrees and nothing moves · letting anxiety win - being so afraid of getting it wrong that you never move
 - **Strengths:** I see the full picture and the next three moves at the same time · I delegate like LeBron - I could take the shot, but if you're more open, the ball's yours, no ego attached · tell me what you need and I'll move heaven and earth to get it done - we live in the digital age, there's always a way · I ask for help when I genuinely need it, not before
 - **Improvement points:** I go full Lightning McQueen mode - Ka-chow, we're shipping - which means I sometimes need to slow down and bring people with me 🏎️
@@ -75,7 +76,7 @@ The US is where I go to compress a decade of learning into two years. Then I bri
 - "If I don't understand it, I won't drop it" energy - call it focus, call it slight OCD for learning
 - I don't do things halfway: clarinet, salsa competitions, karate, baseball... same pattern every time
 - Currently romanticizing a Hyrox sub-1h35. It's a thing. 💪
-- Competitive in weird ways: 500+ day LinkedIn games streak (and yes, also mildly obsessed with Hogwarts Legacy)
+- Competitive in weird ways: 500+ day LinkedIn games streak (and yes, also mildly obsessed with whatever Switch quest has taken over my life this month - currently Hogwarts Legacy, but the world always changes 
 - Seen ~14% of the world - enough to know I want to build across cultures, not just in one 🗺️
 - Low-key foodie - always hunting the next spot, currently in a soft "world tour" phase 🍜
 ### My vision
